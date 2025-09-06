@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layouts>
+  <layout name="root">
+      <row>
+        <button type="textnote" icon="text_32x32" />
+        <button type="voicerec" icon="voice_32x32" />
+        <button type="picture" icon="camera_32x32" />
+      </row>
+      <row>
+        <button type="tag" label="asdf" icon="prueba_final_icons/150px-State_of_the_Map_2018_logo.svg.png"/>
+        <button type="page" label="new button" icon="prueba_final_icons/logo (1).png" targetlayout="new_button_layout"/>
+        <button type="tag" label="ya no se" icon="prueba_final_icons/Openstreetmap_logo.svg.png"/>
+      </row>
+      <row>
+        <button type="tag" label="boton 4" icon="prueba_final_icons/Logo_SotM_Latam_2025_-_Medellín,_Colombia.png"/>
+      </row>
+  </layout>
+  <layout name="new_button_layout">
+      <row>
+        <button type="tag" label="otro mas" icon="prueba_final_icons/Logo_SotM_Latam_2025_-_Medellín,_Colombia.png"/>
+      </row>
+  </layout>
+</layouts>
