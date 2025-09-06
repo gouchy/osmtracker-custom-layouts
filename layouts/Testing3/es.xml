@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layouts>
+  <layout name="root">
+      <row>
+        <button type="textnote" icon="text_32x32" />
+        <button type="voicerec" icon="voice_32x32" />
+        <button type="picture" icon="camera_32x32" />
+      </row>
+      <row>
+        <button type="tag" label="accidente" icon="Testing3_icons/120px-Colombia_road_sign_PEE-01.png"/>
+        <button type="page" label="una p gigante" icon="Testing3_icons/120px-Colombia_road_sign_SI-07.png" targetlayout="the_big_P_layout"/>
+        <button type="page" label="airplane" icon="Testing3_icons/120px-Colombia_road_sign_SI-14.png" targetlayout="airplane_layout"/>
+      </row>
+  </layout>
+  <layout name="the_big_P_layout">
+      <row>
+        <button type="tag" label="gas station" icon="Testing3_icons/120px-Colombia_road_sign_SI-22.png"/>
+      </row>
+  </layout>
+  <layout name="airplane_layout">
+  </layout>
+</layouts>
