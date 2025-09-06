@@ -1,5 +1,5 @@
-# This is a title
+# This is the title
 
-And this is the description.
+* this is a bullet point
 
-* This is a bullet point.
+and this is the descripttion

@@ -7,16 +7,14 @@
         <button type="picture" icon="camera_32x32" />
       </row>
       <row>
-        <button type="tag" label="fondo blanco" icon="root_icons/Fondo-blanco.png"/>
-        <button type="page" label="fondo rosa" icon="root_icons/Fondo-rosa.png" targetlayout="pink_background_layout"/>
-        <button type="page" label="logo" icon="root_icons/SOTM-LATAM-2025-logo-rosa.png" targetlayout="logo_layout"/>
+        <button type="tag" label="30" icon="Testing_icons/60px-Colombia_road_sign_SR-30_%28Zona_Escolar%29.png"/>
+        <button type="page" label="accidente" icon="Testing_icons/120px-Colombia_road_sign_PEE-01.png" targetlayout="undefined_layout"/>
+        <button type="tag" label="aeropuerto" icon="Testing_icons/120px-Colombia_road_sign_SI-14.png"/>
       </row>
   </layout>
-  <layout name="pink_background_layout">
+  <layout name="undefined_layout">
       <row>
-        <button type="tag" label="Logo state of the map latam" icon="pink_background_layout_icons/SOTM LATAM 2025 PP redes blanca.png"/>
+        <button type="tag" label="cruz roja" icon="Testing_icons/120px-Colombia_road_sign_SI-16.png"/>
       </row>
-  </layout>
-  <layout name="logo_layout">
   </layout>
 </layouts>
