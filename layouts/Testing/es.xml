@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layouts>
+  <layout name="root">
+      <row>
+        <button type="textnote" icon="text_32x32" />
+        <button type="voicerec" icon="voice_32x32" />
+        <button type="picture" icon="camera_32x32" />
+      </row>
+      <row>
+      <button type="tag" label="repampanos" icon="root_icons/SOTM-LATAM-2025-logo-rosa.png"/>
+      <button type="page" label="boton nuevo" icon="root_icons/SOTM LATAM 2025 PP redes rosa.png" targetLayout="#"/>
+      <button type="tag" label="fondo blanco :D" icon="root_icons/SOTM-LATAM-2025-logo-blanco.png"/>
+      </row>
+  </layout>
+  <layout name="undefined_layout">
+  </layout>
+</layouts>

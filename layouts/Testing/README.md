@@ -1,0 +1,1 @@
+Hello! This is text like "Lorem ipsum" :D
