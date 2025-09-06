@@ -13,6 +13,7 @@
       </row>
       <row>
         <button type="tag" label="boton 4" icon="prueba_final_icons/Logo_SotM_Latam_2025_-_Medellín,_Colombia.png"/>
+        <button type="tag" label="uno mas" icon="prueba_final_icons/Logo_SotM_Latam_2025_-_Medellín,_Colombia.png"/>
       </row>
   </layout>
   <layout name="new_button_layout">
