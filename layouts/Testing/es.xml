@@ -7,11 +7,16 @@
         <button type="picture" icon="camera_32x32" />
       </row>
       <row>
-      <button type="tag" label="repampanos" icon="root_icons/SOTM-LATAM-2025-logo-rosa.png"/>
-      <button type="page" label="boton nuevo" icon="root_icons/SOTM LATAM 2025 PP redes rosa.png" targetLayout="#"/>
-      <button type="tag" label="fondo blanco :D" icon="root_icons/SOTM-LATAM-2025-logo-blanco.png"/>
+        <button type="tag" label="fondo blanco" icon="root_icons/Fondo-blanco.png"/>
+        <button type="page" label="fondo rosa" icon="root_icons/Fondo-rosa.png" targetlayout="pink_background_layout"/>
+        <button type="page" label="logo" icon="root_icons/SOTM-LATAM-2025-logo-rosa.png" targetlayout="logo_layout"/>
       </row>
   </layout>
-  <layout name="undefined_layout">
+  <layout name="pink_background_layout">
+      <row>
+        <button type="tag" label="Logo state of the map latam" icon="pink_background_layout_icons/SOTM LATAM 2025 PP redes blanca.png"/>
+      </row>
+  </layout>
+  <layout name="logo_layout">
   </layout>
 </layouts>
