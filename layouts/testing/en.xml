@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layouts>
+  <layout name="root">
+      <row>
+        <button type="textnote" icon="text_32x32" />
+        <button type="voicerec" icon="voice_32x32" />
+        <button type="picture" icon="camera_32x32" />
+      </row>
+      <row>
+        <button type="tag" label="yugiysdf" icon="testing_icons/P1032_logo_Color.png"/>
+        <button type="page" label="fytyuiol[" icon="testing_icons/mer_simplificado_ganadero.png" targetlayout="fytyuiol[_layout"/>
+      </row>
+  </layout>
+  <layout name="fytyuiol[_layout">
+  </layout>
+</layouts>
