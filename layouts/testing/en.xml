@@ -7,10 +7,11 @@
         <button type="picture" icon="camera_32x32" />
       </row>
       <row>
-        <button type="tag" label="yugiysdf" icon="testing_icons/P1032_logo_Color.png"/>
-        <button type="page" label="fytyuiol[" icon="testing_icons/mer_simplificado_ganadero.png" targetlayout="fytyuiol[_layout"/>
+        <button type="tag" label="stop" icon="testing_icons/descarga (1).png"/>
+        <button type="tag" label="basurrero" icon="testing_icons/icon_6.png"/>
+        <button type="page" label="carpeta" icon="testing_icons/baner portafolio (2).png" targetlayout="carpeta_layout"/>
       </row>
   </layout>
-  <layout name="fytyuiol[_layout">
+  <layout name="carpeta_layout">
   </layout>
 </layouts>
