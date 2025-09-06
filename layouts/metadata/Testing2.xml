@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata layout="Testing2">
+   <option iso="en" name="English">English layout</option>
+   <github username="OSMLayoutSmith" repo="osmtracker-custom-layouts" branch="master" />
+</metadata>
