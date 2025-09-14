@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layouts>
+  <layout name="root">
+      <row>
+        <button type="textnote" icon="text_32x32" />
+        <button type="voicerec" icon="voice_32x32" />
+        <button type="picture" icon="camera_32x32" />
+      </row>
+      <row>
+        <button type="tag" label="高压线" icon="root_icons/5c75c1c86bd7a.png"/>
+        <button type="tag" label="隧道" icon="root_icons/60005959d079a1610635609139.png"/>
+        <button type="tag" label="其它高点" icon="root_icons/5c75082c32350.png"/>
+      </row>
+  </layout>
+</layouts>
