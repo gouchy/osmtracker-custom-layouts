@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata layout="">
    <option iso="en" name="English">English layout</option>
-   <option iso="zh-rCN" name="中文 (简体)">中文 (简体) layout</option>
+   <option iso="zh-CN" name="中文 (简体)">中文 (简体) layout</option>
    <github username="OSMLayoutSmith" repo="osmtracker-custom-layouts" branch="master" />
 </metadata>
